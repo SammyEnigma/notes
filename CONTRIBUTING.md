@@ -2,6 +2,7 @@
 
 * Be respectful.
 * Test your code thoroughly before submitting a pull request.
+* If changes were made to the UI, add 'before' and 'after' screenshots.
 
 ## AI Policy
 
